@@ -4,7 +4,7 @@
 👨🏽‍💻 Currently looking for a Co-op position for the Fall/Winter of 2024.
 
 ## 🌐 How To Contact Me
-<a href="www.linkedin.com/in/bilalnaz-to"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!--  <a href="www.linkedin.com/in/bilalnaz-to"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 
 LinkedIn in my Bio <br> <br>
 <a href="mailto:bilal.nazar@ontariotechu.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
