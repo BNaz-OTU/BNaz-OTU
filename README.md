@@ -1,12 +1,16 @@
-# 💫 About Me
+<p align=center>
+  <a href="https://bilal-personal-web1.vercel.app/">Personal Website</a>
+</p>
+
+<h1 align=center>💫 About Me</h1>
+
 📚 I am currently studying Computer Science at Ontario Tech University.
 <br>
 👨🏽‍💻 Currently looking for a Co-op position for the Fall/Winter of 2024.
 
 ## 🌐 How To Contact Me
-<!--  <a href="www.linkedin.com/in/bilalnaz-to"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
-
-LinkedIn in my Bio <br> <br>
+<a href="https://www.linkedin.com/in/bilalnazarto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
 <a href="mailto:bilal.nazar@ontariotechu.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
