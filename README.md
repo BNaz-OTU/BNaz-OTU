@@ -2,8 +2,11 @@
   <a href="https://bilal-personal-web1.vercel.app/">Personal Website</a>
 </p>
 
+<!---
 <h1 align=center>💫 About Me</h1>
+--->
 
+<h1>💫 About Me </h1>
 📚 I am currently studying Computer Science at Ontario Tech University.
 <br>
 👨🏽‍💻 Currently looking for a Co-op position for the Fall/Winter of 2024.
