@@ -13,7 +13,7 @@
 <h1>💫 About Me </h1>
 📚 I am currently studying Computer Science at Ontario Tech University.
 <br>
-👨🏽‍💻 Currently looking for a Co-op position for the Fall/Winter of 2024.
+👨🏽‍💻 Currently looking for a Co-op position for the Summer of 2026.
 
 ## 🌐 How To Contact Me
 <a href="https://www.linkedin.com/in/bilalnazarto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
