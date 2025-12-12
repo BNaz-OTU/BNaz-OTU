@@ -1,5 +1,5 @@
 <h1 align=center>
-  <a href="https://bilal-personal-web1.vercel.app/">🚀 Personal Website 🚀</a>
+  <a href="https://bnazpersonalweb.vercel.app/">🚀 Personal Website 🚀</a>
 </h1>
 
 <br>
