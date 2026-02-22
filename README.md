@@ -6,14 +6,12 @@
 <br>
 <br>
 
-<!---
 <h1 align=center>💫 About Me</h1>
---->
 
-<h1>💫 About Me </h1>
+<div align=center>
 📚 I am currently studying Computer Science at Ontario Tech University.
 <br>
-👨🏽‍💻 Currently looking for a Co-op position for the Summer of 2026.
+ 👨🏽‍💻 Currently looking for a Co-op position for the Summer of 2026. 
 
 ## 🌐 How To Contact Me
 <a href="https://www.linkedin.com/in/bilalnazarto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -68,4 +66,5 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=BNaz-OTU&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
